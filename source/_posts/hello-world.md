@@ -2,38 +2,18 @@
 title: Hello World
 ---
 
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
-
+这是一篇测试文章
 ## Quick Start
+“给我一个支撑点，我会把地球支起。”从古希腊哲人的名言中，读出生活的几分狂妄几分自信。这是生活的魄力。
 
-### Create a new post
+　　泰戈尔说，错过太阳时，你在哭泣，那么你也会错过星星。在生活中抗争后，哪怕满身疮痍，也该把无奈沉入心底。这是生活的哲理。
 
-```bash
-$ hexo new "My New Post"
-```
+　　不能舍弃别人都有的，便得不到别人都没有的。会生活的人失去的多，得到的更多。这是生活的固执。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+　　能把心割碎分赠给他人，你会赢得更多的朋友，多一个朋友多一个世界。蓦然回首，你已不再是孤寂的独行人，这是生活的艺术。
 
-### Run server
+　　不要必须让生活跌宕波澜，要明白平静无奇才是生活的真。惟有踏踏实实走进生活的人，才能真正品味生活的真谛。
 
-```bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-```bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-```bash
-$ hexo deploy
-```
+　　不要害怕贫穷，要做流浪的吉普赛人——即使一无所有也要永远歌唱。生活的每一个年轮，都交织着悲愁喜乐，珍藏期望、热爱生活的人，将永远得到生活的青睐。
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
