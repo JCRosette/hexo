@@ -16,4 +16,4 @@ title: Hello World
 
 　　不要害怕贫穷，要做流浪的吉普赛人——即使一无所有也要永远歌唱。生活的每一个年轮，都交织着悲愁喜乐，珍藏期望、热爱生活的人，将永远得到生活的青睐。
 
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+More info: [Deployment](https://cheng0.vercel.app/)
